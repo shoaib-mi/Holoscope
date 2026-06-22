@@ -6,10 +6,6 @@ This application is designed to generate high-resolution 3D images of microscopi
 ## 🎥 Demo Video
 Watch the demonstration video to see how the device and software work together:
 
-<video src="videos/demo.mp4" controls width="640" height="480">
-  Your browser does not support the video tag.
-</video>
-
 [![Watch the video](https://www.aparat.com/video/videoCover/index/vid/oal7wo2/t/1)](https://www.aparat.com/v/oal7wo2)
 
 ## Application Interface
