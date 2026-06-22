@@ -6,7 +6,7 @@ This application is designed to generate high-resolution 3D images of microscopi
 ## 🎥 Demo Video
 Watch the demonstration video to see how the device and software work together:
 
-[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/hqdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![Watch the video](https://www.aparat.com/video/videoCover/index/vid/oal7wo2/t/1)](https://www.aparat.com/v/oal7wo2)
 
 ## Application Interface
 ![3D Microscopic Imaging GUI](images/holoscope_gui.png)
