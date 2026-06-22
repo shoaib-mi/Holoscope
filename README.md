@@ -36,10 +36,14 @@ Before running the software, ensure your optical setup is correctly configured:
 4. Next, the **Inverse Fourier Transform** window will appear, revealing the physical shape of the sample.
 5. Again, select the region of interest (the actual sample shape) and confirm with **Yes** (or click **No** to retry).
 
+![2D Microscopic Imaging GUI](images/holoscope_gui_2d.png)
+
 ## 3D Reconstruction & Visualization
 1. Upon confirmation, a **2D contour image** of the object will be displayed. In this view, the third dimension (height) is represented by color. You can adjust the color depth and colormap using the provided tools.
 2. Closing this window opens a new one displaying the full **3D rendering** of the sample, where you can also customize the 3D plot coloring.
 3. Closing this final window returns you to the main interface.
+
+![3D Microscopic Imaging GUI](images/holoscope_gui_3d.png)
 
 ## Project Management & File Storage
 You can start a new project or load a previous one using the **New/Open Project** button. 
@@ -54,6 +58,8 @@ The bottom panel provides quick access to the generated 2D and 3D images. You ca
    * **New Profile**: Draw an additional profile on the same plot to compare them.
    * **Clear Old Data**: Remove the previous profile.
    * **Clear All Data**: Clear all plotted data.
+
+![1D Microscopic Imaging GUI](images/holoscope_gui_1d.png)
 
 ## Main Window Utilities
 * **Settings**: Opens a dialog to input essential parameters required for image processing.
